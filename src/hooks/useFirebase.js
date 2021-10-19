@@ -8,6 +8,7 @@ import {
   createUserWithEmailAndPassword,
   sendEmailVerification,
   sendPasswordResetEmail,
+  updateProfile,
   signOut,
 } from 'firebase/auth';
 import { useState, useEffect } from 'react';
@@ -19,6 +20,7 @@ const useFirebase = () => {
   const [user, setUser] = useState({});
   const [error, setError] = useState('');
 
+  const [name, setName] = useState('');
   const [email, setEmail] = useState('');
   const [password, setPassword] = useState('');
   const [isLogin, setIsLogin] = useState(false);
@@ -64,6 +66,10 @@ const useFirebase = () => {
 
   const toggleLogin = e => {
     setIsLogin(e.target.checked);
+  };
+
+  const handleNameChange = e => {
+    setName(e.target.value);
   };
 
   const handleEmailChange = e => {
@@ -139,6 +145,7 @@ const useFirebase = () => {
     logout,
     toggleLogin,
     verifyEmail,
+    handleNameChange,
     handleResetPassword,
     handleEmailChange,
     handlePasswordChange,

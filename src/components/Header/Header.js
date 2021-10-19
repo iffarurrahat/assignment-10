@@ -36,16 +36,23 @@ const Header = () => {
             <Link to="/contact" className="items">
               Contact
             </Link>
-            <Link to="/login" className="items">
-              Login
-            </Link>
+            {user?.email ? (
+              <Button
+                onClick={logout}
+                style={{ height: '32px' }}
+                variant="dark"
+                size="sm"
+                className="mt-3"
+              >
+                Logout
+              </Button>
+            ) : (
+              <Link to="/login" className="items">
+                Login
+              </Link>
+            )}
           </Nav>
           <span>{user.displayName} </span>
-          {user?.email && (
-            <Button onClick={logout} variant="dark" size="sm">
-              Logout
-            </Button>
-          )}
         </Navbar.Collapse>
       </Container>
     </Navbar>
