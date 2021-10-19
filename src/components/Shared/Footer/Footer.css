@@ -1,0 +1,13 @@
+.footer-bg{
+    background-color: #020016;  
+    margin-top: 15px;
+}
+.footer-title{
+    color: #20bdd1;
+}
+.footer_li{
+    color: #fff;
+    font-size: 16px;
+    line-height: 1.8;
+    list-style-type: none;
+}

@@ -1,0 +1,18 @@
+.service-hover:hover{
+    box-shadow: 0 0 15px -2px #ddd;
+}
+.service-img{
+    height: 250px;
+}
+.single-ser-btn{
+    background-color: #20bdd1;
+    color: #fff;
+    font-weight: bold;
+    padding: 12px 20px;
+    border:none;
+    text-decoration: none;
+}
+.single-ser-btn:hover{
+    background-color: #20bdd1;
+    color: #fff;
+}

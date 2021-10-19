@@ -1,0 +1,122 @@
+[
+  {
+    "id": "RB17IR201",
+    "name": "Retina Repair",
+    "category": "Vitreomacular adhesion",
+    "details": "One method of retinal detachment repair is pneumatic retinopexy. In this procedure, a gas bubble is injected into the eye. The bubble presses against the detached retina and pushes it back into place. A laser or cryotherapy is then used to reattach the retina firmly into place.",
+    "established": 2014,
+    "img": "https://i.ibb.co/4dKxrG1/main1.jpg",
+    "free": 1896,
+    "location": "Matarkapon, Shamshernagar Road Moulvibazar-3200"
+  },
+  {
+    "id": "RB17IR202",
+    "name": "Glaucoma & Cornea",
+    "category": "Nictitating membrane",
+    "details": "The thinner the cornea the higher risk of developing glaucoma. The thinner corneas are also associated with an increased severity of visual field loss and a more rapid progression of the disease",
+    "established": 2014,
+    "img": "https://i.ibb.co/1n98xpJ/main2.jpg",
+    "free": 2906,
+    "location": "Matarkapon, Shamshernagar Road Moulvibazar-3200"
+  },
+  {
+    "id": "RB17IR203",
+    "name": "Dry Eye Surgery",
+    "category": "Evolution of the eye",
+    "details": "Thermal cautery is a minimally invasive surgery where your doctor uses heat to close your tear ducts and prevent moisture loss. It's usually recommended if punctal plugs don't work. Your practitioner may cauterize the opening to your tear ducts permanently.",
+    "established": 2014,
+    "img": " https://i.ibb.co/HGww3JN/main3.jpg",
+    "free": 1876,
+    "location": "Matarkapon, Shamshernagar Road Moulvibazar-3200"
+  },
+  {
+    "id": "RB17IR204",
+    "name": "Cornea Transplant",
+    "category": "Disc shedding",
+    "details": "Corneal transplantation, also known as corneal grafting, is a surgical procedure where a damaged or diseased cornea is replaced by donated corneal tissue. When the entire cornea is replaced it is known as penetrating keratoplasty and when only part of the cornea is replaced it is known as lamellar keratoplasty.",
+    "established": 2014,
+    "img": "https://i.ibb.co/bF1VqJg/main4.jpg",
+    "free": 3926,
+    "location": "Strada General Traian Moșoiu 24, Bran 507025, Romania"
+  },
+  {
+    "id": "RB17IR205",
+    "name": "Retinal summation",
+    "category": "Retinal summation",
+    "details": "Surgery is a medical or dental specialty that uses operative manual and instrumental techniques on a person to investigate or treat a pathological condition such as a disease or injury, to help improve bodily function, appearance, or to repair unwanted ruptured areas.",
+    "established": 2014,
+    "img": "https://i.ibb.co/8chDR5M/main5.jpg",
+    "free": 5526,
+    "location": "Matarkapon, Shamshernagar Road Moulvibazar-3200"
+  },
+  {
+    "id": "RB17IR206",
+    "name": "Laser Surgery",
+    "category": "Horizontal eccentricity",
+    "details": "Laser surgery is a type of surgery that uses a laser to cut tissue. Examples include the use of a laser scalpel in otherwise conventional surgery, and soft-tissue laser surgery, in which the laser beam vaporizes soft tissue with high water content. Laser surgery is commonly used on the eye.",
+    "established": 2014,
+    "img": "https://i.ibb.co/SwQJrL2/main6.jpg",
+    "free": 3256,
+    "location": "Matarkapon, Shamshernagar Road Moulvibazar-3200"
+  },
+  {
+    "id": "RB17IR207",
+    "name": "Refractive Errors",
+    "category": "Centurion syndrome",
+    "details": "This leading cause of blindness is characterized by damage to the macula, the area of the retina that perceives light. Risk factors include: age, smoking, female gender and family history. Unfortunately, there is no known cure for macular degeneration. However, current treatments can slow the progression of the disease",
+    "established": 2014,
+    "img": "https://i.ibb.co/rbYmkgv/main7.jpg",
+    "free": 5626,
+    "location": "Matarkapon, Shamshernagar Road Moulvibazar-3200"
+  },
+  {
+    "id": "RB17IR208",
+    "name": "Glaucoma",
+    "category": "Diploma Engineering Degrees",
+    "details": "Glaucoma is a condition that causes damage to the eye’s optic nerve and worsens over time. Associated with a buildup of pressure inside the eye, glaucoma tends to be inherited and may not show up until later in life. The increased pressure, called intraocular pressure, can damage the optic nerve, which transmits images to the brain. If damage to the optic nerve from high eye pressure continues, glaucoma will cause permanent loss of vision. Because most people with glaucoma have no early symptoms or pain from this increased pressure, it is important to see your eye doctor regularly so that glaucoma can be diagnosed and treated before long-term visual loss occurs.",
+    "established": 2014,
+    "img": "https://i.ibb.co/mNRrQ03/main8.jpg",
+    "free": 5586,
+    "location": "Matarkapon, Shamshernagar Road Moulvibazar-3200"
+  },
+  {
+    "id": "RB17IR209",
+    "name": "Presbyopia",
+    "category": "Blind spot (vision)",
+    "details": "Presbyopia is the loss of the ability to clearly see close objects or small print. Part of the natural aging process of the eye, presbyopia is often confused with farsightedness but the two are not the same. Presbyopia occurs when the natural lens in the eye loses flexibility, while farsightedness occurs as a result of the natural shape of the eyeball, which causes light rays to bend incorrectly once they have entered the eye.",
+    "established": 2014,
+    "img": "https://i.ibb.co/922c5C2/main9.jpg",
+    "free": 8620,
+    "location": "Matarkapon, Shamshernagar Road Moulvibazar-3200"
+  },
+  {
+    "id": "RB17IR2010",
+    "name": "Floaters",
+    "category": "Peripheral light focusing",
+    "details": "Common among people over 50, floaters are tiny spots or specks that float across the field of vision. Formed by a deposit of protein drifting about in the vitreous (the clear, jelly-like substance that fills the middle of the eye), floaters seem to drift in front of the eye but do not block vision. Usually benign, floaters sometimes can indicate a more serious eye problem such as retinal detachment, especially if they are accompanied by light flashes. If you notice a sudden change in the type or number of spots or flashes you see, visit your eye doctor as soon as possible.",
+    "established": 2014,
+    "img": "https://i.ibb.co/9VmtPFQ/main10.jpg",
+    "free": 3780,
+    "location": "Matarkapon, Shamshernagar Road Moulvibazar-3200"
+  },
+  {
+    "id": "RB17IR2011",
+    "name": "Dry eyes",
+    "category": "Galactosemic cataract",
+    "details": "The condition known as “dry eyes” happens when tear glands cannot make enough tears or produce poor quality tears. Dry eyes can be uncomfortable, causing itching, burning and in rare cases, some loss of vision.",
+    "established": 2014,
+    "img": "https://i.ibb.co/JjtTRTY/main11.jpg",
+    "free": 3820,
+    "location": "Matarkapon, Shamshernagar Road Moulvibazar-3200"
+  },
+  {
+    "id": "RB17IR2012",
+    "name": "Tearing",
+    "category": "Accommodation reflex",
+    "details": "If your eyes produce too many tears, this may indicate that your eyes are particularly sensitive to light, wind or temperature changes. Protecting your eyes by shielding them or wearing sunglasses can sometimes solve the problem. Tearing may also mean that you have a more serious problem, such as an eye infection or a blocked tear duct. Your eye doctor can treat or correct both of these conditions.",
+    "established": 2014,
+    "img": "https://i.ibb.co/x3SCTpg/main13.png",
+    "free": 1720,
+    "location": "Matarkapon, Shamshernagar Road Moulvibazar-3200"
+  }
+]

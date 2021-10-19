@@ -1,0 +1,27 @@
+.banner-img{
+    height: 90vh;
+}
+.banner-details{
+    top: 18%;
+    text-align: start;
+}
+.banner-details h3{
+    color: #fff;
+    font-family: "Roboto Slab", serif;
+}
+.banner-details h1{
+    color: #02123a;
+    font-size: 4em;
+    font-weight: 700;
+    font-family: "Roboto Slab", serif;
+}
+.banner-btn{
+    border: 2px solid #fff;
+    color: #fff;
+    padding: 13px 20px;
+    text-decoration: none;
+    font-family: "Roboto Slab", serif;
+}
+.banner-btn:hover{
+    color: #fff;
+}

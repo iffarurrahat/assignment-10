@@ -1,0 +1,26 @@
+.bg_color{
+    background-color: #20bdd1;
+}
+.logo {
+    color: #fff;
+    font-size: 40px;
+    text-decoration: none;
+    cursor: pointer;
+}
+.logo:hover{
+    color: #fff;
+}
+.items {
+    list-style: none;
+    margin-right: 20px;
+    font-size: 16px;
+    font-weight: 500;
+    color: #fff;
+    cursor: pointer;
+    padding: 20px 5px;
+    text-decoration: none;
+}
+.items:hover {
+    color: #fff;
+}
+    
