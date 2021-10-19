@@ -33,7 +33,7 @@ const Banner = () => {
         <Carousel.Caption className="banner-details">
           <h3>Critical Care Center</h3>
           <h1>
-            Eye Care Specialist <br /> Services That You <br /> Can Trust
+            Eye Care Specialist <br /> Services That You Can Trust
           </h1>
           <button className="btn mt-4">
             <Link to="aboutUs" className="banner-btn">
@@ -49,7 +49,7 @@ const Banner = () => {
           alt="Third slide"
         />
         <Carousel.Caption className="banner-details">
-          <h3>Critical Care Center</h3>
+          <h3>Critical Care Center</h3>Ba
           <h1>
             Eye Care Specialist <br /> Services That You <br /> Can Trust
           </h1>
